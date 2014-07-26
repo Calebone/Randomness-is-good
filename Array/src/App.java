@@ -1,0 +1,12 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		String[] fruits = {"apples", "banana", "pear", "rainbow brust"};
+		
+		for(String fruit: fruits) {
+			System.out.println(fruit);
+		}
+		}
+	}
+
